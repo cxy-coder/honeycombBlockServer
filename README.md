@@ -31,3 +31,9 @@
   # 添加swagger
   npm i --save @nestjs/swagger swagger-ui-express
 ```
+
+## 增删改查
+```bash
+  # 添加 Crud
+  npm i nestjs-mongoose-crud
+```
