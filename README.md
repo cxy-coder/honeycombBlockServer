@@ -29,5 +29,5 @@
 ## 接口文档
 ```bash
   # 添加swagger
-  yarn add @nestjs/swagger swagger-ui-express
+  npm i --save @nestjs/swagger swagger-ui-express
 ```
