@@ -21,8 +21,9 @@
   nest g lib db
 
   # 安装数据库依赖
-  yarn add nestjs-typegoose @typegoose/typegoose
-  yarn add mongoose @types/mongoose
+  npm install --save nestjs-typegoose @typegoose/typegoose
+  npm install mongoose 
+  npm install --save @types/mongoose
 ```
 
 ## 接口文档
