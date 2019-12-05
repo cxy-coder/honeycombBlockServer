@@ -1,4 +1,4 @@
-# honeycombBlockServer
+# Server
 
 ## 初始化项目
 ```bash
@@ -36,4 +36,29 @@
 ```bash
   # 添加 Crud
   npm i nestjs-mongoose-crud
+```
+
+# Admin View
+
+## 创建后台管理项目
+```bash
+  # 使用vue
+  vue create admin
+
+  # 添加 Element UI库
+  vue add element
+
+  # 添加 router 路由
+  vue add router
+
+  # 添加 typescript
+  vue add typescript
+
+  # 修改 main.ts 中 " import './plugins/element.js' " 为 " import './plugins/element' "
+```
+
+```bash
+  # 使用react
+  npx create-reacte-app admin --typescript
+
 ```
